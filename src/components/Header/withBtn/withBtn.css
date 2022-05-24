@@ -1,0 +1,28 @@
+.h1{
+    color: #7B0404;
+    text-align: center;
+}
+.orderBtn{
+    background-color: #FF9B00;
+    border: none;
+    border-radius: 50px;
+    height: 70px;
+    width: 270px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+}
+.orderBtn:hover {
+    border: 2px solid #774b09;
+    box-shadow: 1px 3px 5px  #774b09;
+    
+}
+.withBtn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 60px;
+    margin-top: 140px;
+    justify-content: space-between;
+}

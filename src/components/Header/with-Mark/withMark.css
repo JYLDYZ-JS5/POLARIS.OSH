@@ -1,0 +1,30 @@
+
+.razdelitel{
+    width: 7px;
+    height: 250px;
+    border-radius: 5px ;
+    background-color: rgb(159, 6, 6);
+}
+.withMark{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    align-items:center;
+    margin-top: 50px;
+
+}
+.withMark img{
+    width: 300px;
+}
+.textWithMark span{
+    color: rgb(0, 0, 0);
+    font-style:oblique;
+    font-size: large;
+    margin: 10px;
+    font-size: 1.5rem;
+}
+
+.textWithMark{
+    display: flex;
+    flex-direction: column;
+}

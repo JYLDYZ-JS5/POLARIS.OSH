@@ -1,0 +1,12 @@
+.container {
+    margin: 0 auto;
+    width: 1120px;
+    padding: 3px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

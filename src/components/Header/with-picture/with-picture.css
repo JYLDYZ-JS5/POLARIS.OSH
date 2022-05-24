@@ -1,0 +1,18 @@
+/* ----------------------------------- */
+.withPicture{
+    width: inherit;
+    /* position: relative; */
+   
+}
+.withPicture img{
+    width: inherit;
+    height: 400px; 
+    /* border-radius: 10px; */
+}
+.withPicture h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* position: absolute; */
+    color: white;
+    font-size: 130px;
+    padding: 30px ;
+}
