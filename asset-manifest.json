@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/POLARIS.OSH/static/css/main.b29f4c6a.chunk.css",
+    "main.js": "/POLARIS.OSH/static/js/main.b71a4a54.chunk.js",
+    "main.js.map": "/POLARIS.OSH/static/js/main.b71a4a54.chunk.js.map",
+    "runtime-main.js": "/POLARIS.OSH/static/js/runtime-main.9c387f38.js",
+    "runtime-main.js.map": "/POLARIS.OSH/static/js/runtime-main.9c387f38.js.map",
+    "static/js/2.ebcaefeb.chunk.js": "/POLARIS.OSH/static/js/2.ebcaefeb.chunk.js",
+    "static/js/2.ebcaefeb.chunk.js.map": "/POLARIS.OSH/static/js/2.ebcaefeb.chunk.js.map",
+    "index.html": "/POLARIS.OSH/index.html",
+    "static/css/main.b29f4c6a.chunk.css.map": "/POLARIS.OSH/static/css/main.b29f4c6a.chunk.css.map",
+    "static/js/2.ebcaefeb.chunk.js.LICENSE.txt": "/POLARIS.OSH/static/js/2.ebcaefeb.chunk.js.LICENSE.txt",
+    "static/media/aboutPhoto.5c421857.png": "/POLARIS.OSH/static/media/aboutPhoto.5c421857.png",
+    "static/media/withMark.e3724e2d.png": "/POLARIS.OSH/static/media/withMark.e3724e2d.png",
+    "static/media/Безымянный-1.7aab570c.jpg": "/POLARIS.OSH/static/media/Безымянный-1.7aab570c.jpg",
+    "static/media/Безымянный-2.3d63dddb.jpg": "/POLARIS.OSH/static/media/Безымянный-2.3d63dddb.jpg",
+    "static/media/азс.c1ba6a78.jpg": "/POLARIS.OSH/static/media/азс.c1ba6a78.jpg",
+    "static/media/баннер.e658e636.jpg": "/POLARIS.OSH/static/media/баннер.e658e636.jpg",
+    "static/media/баннер2.79bd6d4a.jpg": "/POLARIS.OSH/static/media/баннер2.79bd6d4a.jpg",
+    "static/media/баннер3.0cb14258.jpg": "/POLARIS.OSH/static/media/баннер3.0cb14258.jpg",
+    "static/media/вотс.be3b0b3b.png": "/POLARIS.OSH/static/media/вотс.be3b0b3b.png",
+    "static/media/инста.c15d5854.png": "/POLARIS.OSH/static/media/инста.c15d5854.png",
+    "static/media/мпа.2cdde31d.jpg": "/POLARIS.OSH/static/media/мпа.2cdde31d.jpg",
+    "static/media/ор.08f93353.jpg": "/POLARIS.OSH/static/media/ор.08f93353.jpg",
+    "static/media/поларис лого.226d2a9b.png": "/POLARIS.OSH/static/media/поларис лого.226d2a9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c387f38.js",
+    "static/js/2.ebcaefeb.chunk.js",
+    "static/css/main.b29f4c6a.chunk.css",
+    "static/js/main.b71a4a54.chunk.js"
+  ]
+}
