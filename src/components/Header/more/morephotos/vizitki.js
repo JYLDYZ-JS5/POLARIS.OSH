@@ -1,0 +1,1 @@
+import v1 from '../визитка/1c9f4725-ce6f-40bb-83f3-12f566699b5a.jpg'

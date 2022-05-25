@@ -1,0 +1,15 @@
+ .moreImg {
+    width:20rem;
+    height: 300px;
+ }
+
+ .more {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+ }
+ .moreImg:hover{
+     width: 22rem;
+     height: 310px;
+ }

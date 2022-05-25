@@ -1,2 +1,42 @@
-
-
+footer .footerLogo {
+    width: 260px;
+}
+footer .footerinst{
+    width: 15px;
+}
+footer a{
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+.first i{
+    font-size: large;
+    color: black;
+}
+.third{
+    display: flex;
+    justify-content: left;
+    flex-direction:column ;
+}
+.third a{
+    margin-top: 10px;
+}
+footer{
+  
+    height: 330px;
+    background-color: rgb(222, 179, 135);
+}
+footer p{
+    text-align: end;
+    color: rgb(86, 86, 86);
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+}
