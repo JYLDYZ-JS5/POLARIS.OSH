@@ -50,6 +50,7 @@ function Polaris() {
           onAddress={onClickAddress}
           onOrder={onClickOrder}
           mainClick={onMainClick}
+          onClickLogo={onMainClick}
         />
         {vizitki && <Vizitki />}
         {shirt && <Termopechat />}

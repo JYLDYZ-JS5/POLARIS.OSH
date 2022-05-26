@@ -5,7 +5,7 @@ function WithLogo(props) {
   return (
     <header className="header">
       <div>
-        <img src={props.logo} alt="logo" className="logo" />
+        <img src={props.logo} alt="logo" className="logo" onClick={props.onClickLogo} />
       </div>
       <nav className="nav">
         <button className="navigation" onClick={props.mainClick}><h4>Главная</h4></button>
