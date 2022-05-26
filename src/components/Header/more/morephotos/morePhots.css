@@ -1,0 +1,19 @@
+.vizitki-div img {
+    width: 45%;
+    height: auto;
+    margin: 10px;
+}
+
+.vizitki-div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.invite-div img {
+    width: 40%;
+    height: auto;
+}
+.termo-div img{
+    width: 80%;
+    height: auto;
+}

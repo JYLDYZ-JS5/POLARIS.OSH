@@ -8,7 +8,7 @@ function WithLogo(props) {
         <img src={props.logo} alt="logo" className="logo" />
       </div>
       <nav className="nav">
-        <button className="navigation" onClick={()=>window.scrollTo({top:0, behavior:'smooth'})}><h4>Главная</h4></button>
+        <button className="navigation" onClick={props.mainClick}><h4>Главная</h4></button>
         <button className="navigation" onClick={props.onAddress}><h4>Адрес</h4></button>
         <button className="navigation" onClick={props.onOrder}> <h4>Заказать</h4></button>
         <div className='icons'>

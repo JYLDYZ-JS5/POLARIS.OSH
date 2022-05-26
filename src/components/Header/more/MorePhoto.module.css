@@ -1,5 +1,5 @@
  .moreImg {
-    width:20rem;
+    width: 20rem;
     height: 300px;
  }
 
@@ -7,9 +7,28 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-
  }
- .moreImg:hover{
-     width: 22rem;
-     height: 310px;
+
+ .wrap {
+    display: flex;
+    position: relative;
+ }
+
+ .wrap i {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 50%;
+    font-size: 2.5rem;
+    color: rgb(37, 25, 125);
+ }
+
+
+
+ .moreImg:hover {
+    width: 22rem;
+    height: 310px;
  }
