@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/POLARIS.OSH/static/css/main.21c380a4.chunk.css",
-    "main.js": "/POLARIS.OSH/static/js/main.a61b290b.chunk.js",
-    "main.js.map": "/POLARIS.OSH/static/js/main.a61b290b.chunk.js.map",
+    "main.css": "/POLARIS.OSH/static/css/main.0870af81.chunk.css",
+    "main.js": "/POLARIS.OSH/static/js/main.ddccd9c3.chunk.js",
+    "main.js.map": "/POLARIS.OSH/static/js/main.ddccd9c3.chunk.js.map",
     "runtime-main.js": "/POLARIS.OSH/static/js/runtime-main.9c387f38.js",
     "runtime-main.js.map": "/POLARIS.OSH/static/js/runtime-main.9c387f38.js.map",
     "static/js/2.a842a084.chunk.js": "/POLARIS.OSH/static/js/2.a842a084.chunk.js",
     "static/js/2.a842a084.chunk.js.map": "/POLARIS.OSH/static/js/2.a842a084.chunk.js.map",
     "index.html": "/POLARIS.OSH/index.html",
-    "static/css/main.21c380a4.chunk.css.map": "/POLARIS.OSH/static/css/main.21c380a4.chunk.css.map",
+    "static/css/main.0870af81.chunk.css.map": "/POLARIS.OSH/static/css/main.0870af81.chunk.css.map",
     "static/js/2.a842a084.chunk.js.LICENSE.txt": "/POLARIS.OSH/static/js/2.a842a084.chunk.js.LICENSE.txt",
     "static/media/04cdb46e-e0c5-466d-ac6d-c1687cd74c10.d0cccf84.jpg": "/POLARIS.OSH/static/media/04cdb46e-e0c5-466d-ac6d-c1687cd74c10.d0cccf84.jpg",
     "static/media/1c9f4725-ce6f-40bb-83f3-12f566699b5a.35d24aed.jpg": "/POLARIS.OSH/static/media/1c9f4725-ce6f-40bb-83f3-12f566699b5a.35d24aed.jpg",
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.9c387f38.js",
     "static/js/2.a842a084.chunk.js",
-    "static/css/main.21c380a4.chunk.css",
-    "static/js/main.a61b290b.chunk.js"
+    "static/css/main.0870af81.chunk.css",
+    "static/js/main.ddccd9c3.chunk.js"
   ]
 }
