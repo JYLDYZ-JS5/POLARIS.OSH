@@ -28,7 +28,7 @@ function OrderModal(props) {
         <Modal onCloseCart={props.onCloseOrderModal}>
             <div className={cls.texts}>
             <h3>Оставьте свой WhatsApp номер</h3>
-            <h5>мы свяжемся с вами в течении минуты</h5>
+            <h5>мы свяжемся с вами в течении  нескольких минут</h5>
             </div>
            <form onSubmit={submitData} className={cls.form}>
            <input type='text' className={className} ref={name}  placeholder={placeholder2}/> 

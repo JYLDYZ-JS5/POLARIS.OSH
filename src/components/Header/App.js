@@ -71,7 +71,7 @@ function Polaris() {
         )}
       </Card>
       <footer>
-        <div className="footer">
+          <div className="footer">
           <div className="first">
             <i> &#9742; +996 553 481 984</i>
             <i>
@@ -97,6 +97,7 @@ function Polaris() {
         </div>
 
         <p>Developer:JYLDYZ TOROGULOVA &#128151;</p>
+        
       </footer>
     </>
   )
