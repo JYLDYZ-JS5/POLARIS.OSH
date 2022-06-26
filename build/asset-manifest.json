@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/POLARIS.OSH/static/css/main.0870af81.chunk.css",
-    "main.js": "/POLARIS.OSH/static/js/main.ddccd9c3.chunk.js",
-    "main.js.map": "/POLARIS.OSH/static/js/main.ddccd9c3.chunk.js.map",
+    "main.js": "/POLARIS.OSH/static/js/main.f3acaaff.chunk.js",
+    "main.js.map": "/POLARIS.OSH/static/js/main.f3acaaff.chunk.js.map",
     "runtime-main.js": "/POLARIS.OSH/static/js/runtime-main.9c387f38.js",
     "runtime-main.js.map": "/POLARIS.OSH/static/js/runtime-main.9c387f38.js.map",
     "static/js/2.a842a084.chunk.js": "/POLARIS.OSH/static/js/2.a842a084.chunk.js",
@@ -44,6 +44,6 @@
     "static/js/runtime-main.9c387f38.js",
     "static/js/2.a842a084.chunk.js",
     "static/css/main.0870af81.chunk.css",
-    "static/js/main.ddccd9c3.chunk.js"
+    "static/js/main.f3acaaff.chunk.js"
   ]
 }

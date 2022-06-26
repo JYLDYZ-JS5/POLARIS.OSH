@@ -1,0 +1,40 @@
+.termoLi {
+    display: flex;
+    flex-direction: column;
+}
+
+.priceCart {
+    display: inline-flex;
+    flex-direction: column;
+    height: 320px;
+    background-color: rgba(254, 245, 147, 0.795);
+    width: inherit;
+    color: rgb(65, 18, 18);
+    border-radius: 35px;
+    margin-top: 190px;
+    margin-bottom: 140px;
+}
+
+.priceCart h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.priceCart p {
+    color: rgb(70, 70, 70);
+    text-align: center;
+    margin-bottom: 9px;
+}
+
+.priceCart div  {
+    display: flex;
+    justify-content: space-between;
+}
+.priceCart div span{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(9, 5, 72);
+}
+.priceCart section{
+    margin: 0 10% 0 10%;
+}

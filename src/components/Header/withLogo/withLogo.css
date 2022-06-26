@@ -7,11 +7,12 @@
   display: flex;
   justify-content: space-around;
   width: 100%;
+  align-items: center;
 }
 
 .nav h4 {
   font-size: 30px;
-  color: rgb(196, 15, 15);
+  color:  #e48c08e6;
 }
 .icons img{
   width: 30px;

@@ -12,6 +12,7 @@
  .wrap {
     display: flex;
     position: relative;
+    margin-top: 10px;
  }
 
  .wrap i {

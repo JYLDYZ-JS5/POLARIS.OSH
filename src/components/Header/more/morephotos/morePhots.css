@@ -5,15 +5,74 @@
 }
 
 .vizitki-div {
-    display: flex;
     flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
 }
 
 .invite-div img {
-    width: 40%;
+    width: 45%;
+    margin: 10px;
     height: auto;
 }
-.termo-div img{
-    width: 80%;
+
+.invite-div h4 {
+    font-size: 2rem;
+    color: brown;
+    margin-bottom: 40px;
+}
+
+.invite-div {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.termo-div img {
+    width: 45%;
     height: auto;
+}
+
+.termo-div {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.banner {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.banner img {
+    width: 45%;
+    margin: 10px;
+    height: auto;
+}
+
+h4 {
+    font-size: 2rem;
+    color: brown;
+    margin-bottom: 40px;
+}
+
+.banner img:hover {
+    width: 48%;
+}
+
+.termo-div img:hover {
+    width: 48%;
+}
+
+.vizitki-div img:hover {
+    width: 48%;
+}
+
+.invite-div img:hover {
+    width: 48%;
 }
